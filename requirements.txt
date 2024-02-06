@@ -1,11 +1,9 @@
-pyrogram
-tgcrypto
 aiohttp
+pyrofork
 python-dotenv
+tgcrypto
 motor
 aiofiles
 dnspython
-apscheduler
 requests
-psutil
-pyromod
+jinja2
